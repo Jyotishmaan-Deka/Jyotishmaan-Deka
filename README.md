@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Android Developer | Connected Devices | Diagnostic Solutions](github-header-image.png)
+![Android Developer | Connected Devices | Diagnostic Solutions](github.png)
 
 #### Jyotishmaan Deka | Android Developer | Connected Devices & Diagnostics
 <br>
