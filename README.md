@@ -4,10 +4,6 @@
 #### Jyotishmaan Deka | Android Developer | Connected Devices & Diagnostics  
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jyotishmaandeka&color=blue) 
-![GitHub followers](https://img.shields.io/github/followers/jyotishmaandeka?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/jyotishmaandeka?style=social)
-
 ---
 
 ### ✨ Tech Stacks I Use  
