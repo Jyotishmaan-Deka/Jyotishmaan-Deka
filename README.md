@@ -31,15 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-[![Jyotishmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotishmaandeka&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jyotishmaandeka&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishmaandeka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 💬 My inbox is always open
 <code><a href="https://www.linkedin.com/in/jyotishmaandeka19"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 <code><a href="mailto:jyotishmaan10@gmail.com"><img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a></code>
