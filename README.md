@@ -17,15 +17,6 @@
 
 <br><br><br>
 
-**🌱 Looking forward to learn** <br><br>
-
-<code><a href="https://developer.android.com/studio" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
-<code><a href="https://reactnative.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
-<code><a href="https://developer.apple.com/swift/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></a></code>
-
-<br><br><br>
-
 **💬 My inbox is always open — contact me** <br><br>
 
 <code><a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
