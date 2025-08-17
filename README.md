@@ -11,7 +11,7 @@
 <code><a href="https://kotlinlang.org/docs/home.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/docs" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/s3/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https://developer.android.com/jetpack/compose" target="_blank"><img height="50" src="https://developer.android.com/images/logos/jetpack-compose-icon_RGB.png"></a></code>
+<code><a href="https://developer.android.com/jetpack/compose" target="_blank"><img height="50" src="[https://developer.android.com/images/logos/jetpack-compose-icon_RGB.png](https://developer.android.com/static/develop/ui/compose/images/landing-preview-animation.gif)"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <code><a href="https://www.figma.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></code>
 
