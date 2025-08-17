@@ -10,23 +10,24 @@
 
 ---
 
-### ✨ Tech Stacks I Use
-<code><a href="https://developer.android.com/"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
-<code><a href="https://www.java.com/"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<code><a href="https://kotlinlang.org/"><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a></code>
-<code><a href="https://firebase.google.com/"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
-<code><a href="https://aws.amazon.com/s3/"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https://developer.android.com/jetpack/compose"><img height="50" src="https://developer.android.com/images/logos/jetpack-compose-icon_RGB.png"></a></code>
-<code><a href="https://www.json.org/"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
-<code><a href="https://www.figma.com/"><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></code>
+### ✨ Tech Stacks I Use  
+
+<p align="center">
+  <a href="https://developer.android.com/"><img height="50" style="background:white; padding:5px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a>
+  <a href="https://www.java.com/"><img height="50" style="background:white; padding:5px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
+  <a href="https://kotlinlang.org/"><img height="50" style="background:white; padding:5px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a>
+  <a href="https://firebase.google.com/"><img height="50" style="background:white; padding:5px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
+  <a href="https://aws.amazon.com/s3/"><img height="50" style="background:white; padding:5px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a>
+  <a href="https://www.json.org/"><img height="50" style="background:white; padding:5px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
+  <a href="https://www.figma.com/"><img height="50" style="background:white; padding:5px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a>
+</p>
 
 ---
 
 ### ⚡ About Me
-- 🔭 Currently building **diagnostic solutions** for connected devices  
+- 🔭 Currently building **Connected Devices Application**
 - 🌱 Learning **Jetpack Compose & Kotlin Advanced**  
 - 💡 Exploring **IoT + Mobile apps**  
-- 🎯 Goal: Become a top **Android Solutions Architect**
 
 ---
 
