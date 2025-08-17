@@ -19,11 +19,7 @@
 
 **💬 My inbox is always open — contact me** <br><br>
 
-<code><a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
-<code><a href="mailto:YOUR-EMAIL" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a></code>
-<code><a href="https://twitter.com/YOUR-TWITTER" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
-<code><a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a></code>
+<code><a href="https://www.linkedin.com/in/jyotishmaandeka19" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+<code><a href="mailto:jyotishmaan10@gmail.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a></code>
 
 <br><br>
-
-[![Jyotishmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
