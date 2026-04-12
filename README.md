@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Android+Developer+%7C+3%2B+Years+Experience+%F0%9F%9A%80;BLE+%26+Wi-Fi+Connected+Devices+%F0%9F%93%A1;Diagnostic+SDK+Architect+%F0%9F%94%A7;Jetpack+Compose+%26+Kotlin+%E2%9C%A8;IoT+%2B+Mobile+Integration+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotishmaandeka19)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotishmaan10@gmail.com)
@@ -22,11 +22,12 @@
 
 ### 👨‍💻 About Me
 
--📡 Strong expertise in BLE & Wi-Fi integrations for Android
--🏗️ Built and shipped modular JSON-based Diagnostic SDKs & IoT applications
--🌱 Currently advancing in Jetpack Compose & Advanced Kotlin
--💡 Passionate about Mobile + IoT ecosystem integration
--🎨 Skilled in UI/UX design using Figma
+- 📡 Knowledge in BLE & Wi-Fi integrations for Android
+- 🏗️ Built and shipped modular JSON-based Diagnostic SDKs & IoT applications
+- 🌱 Currently advancing in Jetpack Compose & Advanced Kotlin
+- 💡 Passionate about Mobile + IoT ecosystem integration
+- 🎨 Interested in UI/UX design using Figma
+- ⚡ Fun fact: I turn hardware signals into delightful UX
 
 <br clear="right"/>
 
