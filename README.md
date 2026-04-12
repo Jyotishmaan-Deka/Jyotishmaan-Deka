@@ -57,22 +57,6 @@
 
 ---
 
-## 📡 Connectivity Expertise
-
-<div align="center">
-
-| Technology | Proficiency | Use Case |
-|:---:|:---:|:---:|
-| 🔵 Bluetooth Low Energy (BLE) | ██████████ Expert | Device pairing, real-time data streaming |
-| 📶 Wi-Fi Communication | █████████░ Advanced | EOL testing, diagnostic protocols |
-| 🌐 REST APIs + Retrofit | █████████░ Advanced | Backend integration, cloud sync |
-| 🗄️ Firebase | ████████░░ Proficient | Auth, Realtime DB, Analytics |
-| ☁️ AWS S3 | ███████░░░ Proficient | Media storage, large file handling |
-
-</div>
-
----
-
 ## ⚙️ Android Arsenal
 
 <div align="center">
@@ -108,16 +92,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishmaandeka19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=8892b0" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotishmaandeka19&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=FF6F00&currStreakLabel=00d4ff&sideLabels=8892b0" width="60%" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jyotishmaandeka19&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" />
 
 </div>
 
