@@ -90,10 +90,7 @@
  
 <img src="https://github-readme-stats.vercel.app/api?username=Jyotishmaan-Deka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&count_private=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotishmaan-Deka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=8892b0&langs_count=6" height="165"/>
- 
-<img src="https://streak-stats.demolab.com?user=Jyotishmaan-Deka&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=FF6F00&currStreakLabel=00d4ff&sideLabels=8892b0" width="60%" />
- 
+
 </div>
 
 ---
@@ -125,13 +122,5 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Jyotishmaan-Deka&style=for-the-badge&color=00d4ff&labelColor=0D1117" />
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&fontColor=00d4ff" />
 
 </div>
