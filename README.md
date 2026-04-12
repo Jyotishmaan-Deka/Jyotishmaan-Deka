@@ -115,7 +115,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotishmaandeka19&bg_color=0D1117&color=00d4ff&line=1a1a2e&point=00d4ff&area_color=16213e&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[jyotishmaandeka19](https://github.com/Jyotishmaan-Deka)&bg_color=0D1117&color=00d4ff&line=1a1a2e&point=00d4ff&area_color=16213e&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
