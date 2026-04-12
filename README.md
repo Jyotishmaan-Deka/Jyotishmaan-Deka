@@ -98,15 +98,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jyotishmaan-Deka&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" />
-
-</div>
-
----
 
 ## 📜 Certifications
 
@@ -114,10 +105,10 @@
 
 | 🎓 Certification | 🏛️ Institution | 🔗 |
 |---|---|---|
-| Programming For Everybody — Python | University of Michigan (Coursera) | [View](#) |
-| Python Data Structures | University of Michigan (Coursera) | [View](#) |
-| Java Programming | Duke University (Coursera) | [View](#) |
-| Full Stack Java Development | JSpiders, Bengaluru | [View](#) |
+| Programming For Everybody — Python | University of Michigan (Coursera) | [View](https://www.coursera.org/account/accomplishments/verify/2PRQUFJM8P3U?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) |
+| Python Data Structures | University of Michigan (Coursera) | [View](https://www.coursera.org/account/accomplishments/verify/T2NBKD6EC3WB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) |
+| Java Programming | Duke University (Coursera) | [View](https://www.coursera.org/account/accomplishments/verify/L2W7MPEYRBDV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) |
+| Full Stack Java Development | JSpiders, Bengaluru | [View](https://drive.google.com/file/d/17NJNCjEYD_wiYcz6XVYr6xjX5jRN8zXf/view?usp=drive_link) |
 
 </div>
 
