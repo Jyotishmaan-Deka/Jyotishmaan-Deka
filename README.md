@@ -22,13 +22,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Building **Connected Devices Applications** @ Danlaw
-- 📡 Specialized in **BLE & Wi-Fi** Android integrations
-- 🏗️ Architected production **Diagnostic SDKs** from scratch
-- 🌱 Deepening skills in **Jetpack Compose** & **Advanced Kotlin**
-- 💡 Passionate about **IoT + Mobile** convergence
-- 🎨 Also do **UI/UX Design** using Figma
-- ⚡ Fun fact: I turn hardware signals into delightful UX
+📡 Strong expertise in BLE & Wi-Fi integrations for Android
+🏗️ Built and shipped modular JSON-based Diagnostic SDKs & IoT applications
+🌱 Currently advancing in Jetpack Compose & Advanced Kotlin
+💡 Passionate about Mobile + IoT ecosystem integration
+🎨 Skilled in UI/UX design using Figma
 
 <br clear="right"/>
 
