@@ -1,43 +1,161 @@
-### Hi there, I'm Jyotishmaan 👋
+<div align="center">
 
-<img src="github.png" alt="Android Developer | Connected Devices | Diagnostic Solutions" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=250&section=header&text=Jyotishmaan%20Deka&fontSize=55&fontColor=00d4ff&fontAlignY=40&desc=Android%20Engineer%20%E2%80%A2%20Connected%20Devices%20%E2%80%A2%20Diagnostic%20Solutions&descAlignY=62&descSize=15&descColor=8892b0&animation=twinkling" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Android+Developer+%7C+3%2B+Years+Experience+%F0%9F%9A%80;BLE+%26+Wi-Fi+Connected+Devices+%F0%9F%93%A1;Diagnostic+SDK+Architect+%F0%9F%94%A7;Jetpack+Compose+%26+Advanced+Kotlin+%E2%9C%A8;IoT+%2B+Mobile+Integration+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotishmaandeka19)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotishmaan10@gmail.com)
+[![Location](https://img.shields.io/badge/-Bengaluru%2C%20India-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+<br/>
+
+</div>
 
 ---
 
-## 🚀 Jyotishmaan Deka  
-**Android Developer** specializing in **Connected Devices** & **Diagnostic Solutions**
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<br>
+### 👨‍💻 About Me
+
+- 🔭 Building **Connected Devices Applications** @ Danlaw
+- 📡 Specialized in **BLE & Wi-Fi** Android integrations
+- 🏗️ Architected production **Diagnostic SDKs** from scratch
+- 🌱 Deepening skills in **Jetpack Compose** & **Advanced Kotlin**
+- 💡 Passionate about **IoT + Mobile** convergence
+- 🎨 Also do **UI/UX Design** using Figma
+- ⚡ Fun fact: I turn hardware signals into delightful UX
+
+<br clear="right"/>
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <a href="https://developer.android.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="Android"></a>
-  <a href="https://www.java.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"></a>
-  <a href="https://kotlinlang.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin"></a>
-  <a href="https://firebase.google.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase"></a>
-  <a href="https://aws.amazon.com/s3" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS S3"></a>
-  <a href="https://www.json.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="JSON"></a>
-  <a href="https://www.figma.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma"></a>
+<div align="center">
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,androidstudio&theme=dark&perline=8" />
 </p>
 
----
-
-### 📌 About Me
-
-- 🔭 Currently building **Connected Devices Applications**  
-- 🌱 Deepening my expertise in **Jetpack Compose** & **Advanced Kotlin**  
-- 💡 Passionate about **IoT + Mobile App Integration**  
-- 🧪 Focused on delivering robust **diagnostic solutions** for real-world problems  
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jyotishmaandeka19" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn"></a>
-  &nbsp;&nbsp;
-  <a href="mailto:jyotishmaan10@gmail.com"><img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Gmail"></a>
+### 🌐 Backend & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,aws,python&theme=dark&perline=8" />
 </p>
+
+### 🎨 Design & Collaboration
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github&theme=dark&perline=8" />
+</p>
+
+</div>
+
+---
+
+## 📡 Connectivity Expertise
+
+<div align="center">
+
+| Technology | Proficiency | Use Case |
+|:---:|:---:|:---:|
+| 🔵 Bluetooth Low Energy (BLE) | ██████████ Expert | Device pairing, real-time data streaming |
+| 📶 Wi-Fi Communication | █████████░ Advanced | EOL testing, diagnostic protocols |
+| 🌐 REST APIs + Retrofit | █████████░ Advanced | Backend integration, cloud sync |
+| 🗄️ Firebase | ████████░░ Proficient | Auth, Realtime DB, Analytics |
+| ☁️ AWS S3 | ███████░░░ Proficient | Media storage, large file handling |
+
+</div>
+
+---
+
+## ⚙️ Android Arsenal
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                   ANDROID DEVELOPMENT STACK                  ║
+╠══════════════════╦═══════════════════╦════════════════════════╣
+║  LANGUAGES       ║  UI FRAMEWORK     ║  ARCHITECTURE          ║
+║  • Kotlin        ║  • Jetpack        ║  • MVVM                ║
+║  • Java          ║    Compose        ║  • Clean Architecture  ║
+║  • Python        ║  • XML Layouts    ║  • Repository Pattern  ║
+╠══════════════════╬═══════════════════╬════════════════════════╣
+║  NETWORKING      ║  LOCAL STORAGE    ║  TESTING               ║
+║  • Retrofit      ║  • Room DB        ║  • Mockito             ║
+║  • REST APIs     ║  • SharedPrefs    ║  • Espresso            ║
+║  • JSON Parsing  ║  • DataStore      ║  • JUnit               ║
+╠══════════════════╩═══════════════════╩════════════════════════╣
+║  CONNECTIVITY: BLE  •  Wi-Fi  •  USB  •  OBD-II               ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jyotishmaandeka19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishmaandeka19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=8892b0" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotishmaandeka19&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=FF6F00&currStreakLabel=00d4ff&sideLabels=8892b0" width="60%" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jyotishmaandeka19&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| 🎓 Certification | 🏛️ Institution | 🔗 |
+|---|---|---|
+| Programming For Everybody — Python | University of Michigan (Coursera) | [View](#) |
+| Python Data Structures | University of Michigan (Coursera) | [View](#) |
+| Java Programming | Duke University (Coursera) | [View](#) |
+| Full Stack Java Development | JSpiders, Bengaluru | [View](#) |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotishmaandeka19&bg_color=0D1117&color=00d4ff&line=1a1a2e&point=00d4ff&area_color=16213e&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jyotishmaandeka19&style=for-the-badge&color=00d4ff&labelColor=0D1117" />
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&fontColor=00d4ff" />
+
+</div>
