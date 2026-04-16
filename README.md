@@ -23,11 +23,10 @@
 ### 👨‍💻 About Me
 
 - 📡 Knowledge in BLE & Wi-Fi integrations for Android
-- 🏗️ Built and shipped modular JSON-based Diagnostic SDKs & IoT applications
-- 🌱 Currently advancing in Jetpack Compose & Advanced Kotlin
-- 💡 Passionate about Mobile + IoT ecosystem integration
-- 🎨 Interested in UI/UX design using Figma
-- ⚡ Fun fact: I turn hardware signals into delightful UX
+- 🏗️ Built and shipped modular JSON-based Diagnostic SDKs & IoT applications for various auto motive clients
+- 🌱 Currently learning Jetpack Compose & Advanced Kotlin
+- 💡 Passionate about Mobile + IoT ecosystem
+- 🎨 Interested in UI/UX design
 
 <br clear="right"/>
 
