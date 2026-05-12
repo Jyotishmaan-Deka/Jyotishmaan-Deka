@@ -114,6 +114,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Jyotishmaan-Deka&style=for-the-badge&color=00d4ff&labelColor=0D1117" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Jyotishmaan-Deka&style=for-the-badge&color=00d4ff&labelColor=0D1117" /> -->
 
 </div>
