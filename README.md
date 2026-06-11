@@ -22,10 +22,10 @@
 
 ### 👨‍💻 About Me
 
-- 📡 Knowledge in BLE & Wi-Fi integrations for Android
-- 🏗️ Built and shipped modular JSON-based Diagnostic SDKs & IoT applications for various automotive clients
-- 🌱 Currently learning Jetpack Compose & Advanced Kotlin
-- 🎨 Interested in UI/UX design
+-  Knowledge in BLE & Wi-Fi integrations for Android
+-  Built and shipped modular JSON based Diagnostic SDKs & IoT applications major automotive clients
+-  Currently learning Jetpack Compose & Advanced Kotlin
+-  Interested in UI/UX design
 
 <br clear="right"/>
 
