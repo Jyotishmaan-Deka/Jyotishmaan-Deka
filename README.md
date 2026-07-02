@@ -63,7 +63,7 @@
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jyotishmaan-Deka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Jyotishmaan-Deka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&count_private=true" height="165"/>
 </div>
 
 ---
